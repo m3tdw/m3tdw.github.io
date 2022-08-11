@@ -10,11 +10,11 @@ Contiene 5 páginas que muestran lo siguiente: (al menos 5 páginas)
 - Página de casos de exito
 
 Las páginas continen etiquetas como:
--Listas
--Tablas
--Parrafos
--Divisiones
--etc
+- Listas
+- Tablas
+- Parrafos
+- Divisiones
+- etc
 
 Contiene un menu de navegación con 5 enlaces internos * y 3 enlaces externos (Twitter, Facebook, Instgram) .
 
